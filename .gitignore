@@ -6,3 +6,4 @@ fp-info-cache
 *-backups/
 *.kicad_sch-bak
 *#
+blade*
